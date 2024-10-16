@@ -1,8 +1,6 @@
 import tkinter as tk
 import threading
 import random
-import json
-import os
 import math
 
 width = 500
